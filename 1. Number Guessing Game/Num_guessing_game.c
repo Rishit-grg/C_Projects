@@ -1,3 +1,4 @@
+
 // Number guessing game
 // generates a random number and asks the player to guess
 // if player's guess is higher than the actual number the program displays lower number please
